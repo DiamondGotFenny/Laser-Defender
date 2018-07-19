@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9abd8a7481a8d7a409885de330cf18e2
+timeCreated: 1507640015
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Planet Kosmos
+  fontNames:
+  - Planet Kosmos
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
